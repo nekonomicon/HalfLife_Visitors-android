@@ -7,7 +7,8 @@
     <uses-sdk android:minSdkVersion="3" android:targetSdkVersion="23"/>
     <!-- Set your application name here -->
     <application android:label="Visitors"
-		 android:debuggable="true">
+		 android:debuggable="true"
+		 android:icon="@logo_xash_visitors">
     <!-- Set your launcher title here -->
         <activity android:name="in.celest.xash3d.LauncherActivity"
                   android:label="Visitors"

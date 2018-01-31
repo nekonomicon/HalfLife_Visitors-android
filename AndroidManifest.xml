@@ -8,7 +8,7 @@
     <!-- Set your application name here -->
     <application android:label="Visitors"
 		 android:debuggable="false"
-		 android:icon="@logo_xash_visitors">
+		 android:icon="@drawable/logo_xash_visitors">
     <!-- Set your launcher title here -->
         <activity android:name="in.celest.xash3d.LauncherActivity"
                   android:label="Visitors"

@@ -4,7 +4,7 @@
       package="in.celest.xash3d.visitors"
       android:versionCode="57"
       android:versionName="1.0.2">
-    <uses-sdk android:minSdkVersion="3" android:targetSdkVersion="23"/>
+    <uses-sdk android:minSdkVersion="3" android:targetSdkVersion="26"/>
     <!-- Set your application name here -->
     <application android:label="Visitors"
 		 android:debuggable="true"
